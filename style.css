@@ -1,0 +1,12 @@
+body {
+    background-image: radial-gradient(chartreuse,rgb(187, 255, 0),rgb(255, 187, 0),darkorange,rgb(255, 38, 0),rgb(255, 0, 55));
+}
+.heading {
+    font-size: 40px;
+    color: darkorange;
+    border-width: 7px;
+    border-top-color: rgb(0, 255, 234);
+    border-right-color: rgb(0, 38, 255);
+    border-left-color:rgb(136, 255, 0) ;
+    border-bottom-color:rgb(162, 0, 255);
+}
